@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "Material UI",
+      "details": "    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "category": "works",
+      "id": "1"
+    },
+    {
+      "title": "How to earn some money",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor neque vitae tempus quam. Cras sed felis eget velit. Arcu vitae elementum curabitur vitae nunc sed. Urna neque viverra justo nec ultrices dui sapien. Posuere ac ut consequat semper viverra nam libero justo. Cras semper auctor neque vitae tempus quam pellentesque.",
+      "category": "money",
+      "id": "3"
+    },
+    {
+      "title": "Shopping Lists",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "category": "reminders",
+      "id": "2"
+    },
+    {
+      "title": "Half Marathon",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus proin nibh nisl condimentum id. Nibh ipsum consequat nisl vel pretium lectus quam. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Augue neque gravida in fermentum et sollicitudin ac.",
+      "category": "todos",
+      "id": "4"
+    },
+    {
+      "id": "5a91",
+      "title": "React JS",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Congue eu consequat ac felis donec et. Interdum consectetur libero id faucibus nisl. Aliquet porttitor lacus luctus accumsan tortor.",
+      "category": "works"
+    },
+    {
+      "id": "3ab0",
+      "title": "Gardening",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet dictum sit amet justo donec enim diam vulputate ut. Feugiat pretium nibh ipsum consequat nisl vel. Ac odio tempor orci dapibus. In vitae turpis massa sed elementum tempus egestas sed.",
+      "category": "todos"
+    },
+    {
+      "id": "1faa",
+      "title": "Property : House or Unit?",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis egestas maecenas pharetra convallis posuere morbi leo. ",
+      "category": "money"
+    },
+    {
+      "id": "662f",
+      "title": "Spring boot frameworks",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus cras adipiscing enim eu turpis. ",
+      "category": "works"
+    },
+    {
+      "id": "a114",
+      "title": "Remember the following events",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis viverra nibh cras pulvinar mattis nunc sed. Ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Tellus mauris a diam maecenas sed.",
+      "category": "reminders"
+    }
+  ]
+}
