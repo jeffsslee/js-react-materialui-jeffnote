@@ -24,7 +24,7 @@ https://mui.com/
 Landing page : memo lists
 
 ![App main page: note lists](./ui-outlook/materialUI-jeffnote2-index.PNG)  
-Landing page : memo lists
+Memo create page
 
 ![App create page](./ui-outlook/materialUI-jeffnote2-create.PNG)
 
@@ -154,7 +154,7 @@ https://mui.com/material-ui/customization/default-theme/
 
 How to customize default theme
 
-- Target file : App.js, index.js ... normally file toward root
+- Target file : App.js, or index.js
 - To redefine css with createTheme() method
 - To apply the them with ThemeProvider component
 
@@ -355,7 +355,7 @@ or in the package.json file, you can add scripts:
 ```
 
 - npm init
-  - command will initialize a project and create the package. json file
+  - To initialize a project and create the 'package.json' file
 
 To run the script in the terminal
 
@@ -544,7 +544,7 @@ Basic layout
 ```javascript
 // [/src/components/Layout.js]
 // 1. To creaste layout.js
-// use prop : children
+// To use prop : children
 
 ...
 
